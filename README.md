@@ -61,7 +61,7 @@ $ npm run test:cov
 ```
 
 ## API DOCUMENTATION
-API documentation can be found here (https://localhost:3000/api)
+API documentation can be found here (http://localhost:3004/api)
 
 ## Tools
 - Prisma: for database integration (ORM)
